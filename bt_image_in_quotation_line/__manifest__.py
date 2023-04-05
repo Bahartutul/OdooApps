@@ -12,7 +12,8 @@
 			Sale report with product image in odoo,
 			product image on sale order line and sale report in odoo,
 			Identify product via image in odoo,
-			Identify priduct via image on sale report in odoo
+			Identify priduct via image on sale report in odoo,
+			Product Image,
     """,
 
     'author': "B-Infotech",
