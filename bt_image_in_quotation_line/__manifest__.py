@@ -15,7 +15,7 @@
 			Identify priduct via image on sale report in odoo
     """,
 
-    'author': "S. M. BAHAR",
+    'author': "B-Infotech",
     'website': "",
 
     # Categories can be used to filter modules in modules listing
@@ -23,6 +23,7 @@
     # for the full list
     'category': 'Sales',
     'version': '16.0.0.1',
+    'license' : 'LGPL-3',
 
     # any module necessary for this one to work correctly
     'depends': ['base','sale','sale_management'],
